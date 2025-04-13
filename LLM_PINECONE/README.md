@@ -4,7 +4,8 @@
 
 ## step 1 : create a virtual environment
 _code : python3 -m venv .venv  \
-to start the virtual environment on mac : source .venv/bin/activate  \
+to start the virtual environment  \
+in mac : source .venv/bin/activate  \
 in windows - .venv\Scripts\activate_
 
 ## step 2 : create a documents folder, where we save the document that we are going to work on
@@ -41,13 +42,13 @@ MODEL_NAME = ""_
 
 ## step 8 : function to chunk the documents
 
-## step 9 : # Initialize Pinecone
+## step 9 : Initialize Pinecone
 
-## step 10 : # Upload documents to Pinecone using direct method
+## step 10 : Upload documents to Pinecone using direct method
 
-## step 11 : # Query function
+## step 11 : Query function
 
-## step 12 : # Main execution
+## step 12 : Main execution
 
 
 
