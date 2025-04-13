@@ -33,7 +33,7 @@ from pinecone import Pinecone, ServerlessSpec (for specifying the index_name, cl
 _# Load environment variables_  \
 _load_dotenv()_
 
-_# Configure with explicit API key - don't rely on environment variables
+_# Configure with explicit API key - don't rely on environment variables  \
 PINECONE_API_KEY = ""  \
 INDEX_NAME = ""  \
 MODEL_NAME = ""_
