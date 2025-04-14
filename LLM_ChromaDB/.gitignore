@@ -1,2 +1,4 @@
 chroma_db/
 .venv/
+.DS_Store
+.vscode/
