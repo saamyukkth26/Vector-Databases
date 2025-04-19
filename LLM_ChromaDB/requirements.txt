@@ -4,3 +4,4 @@ langchain
 tiktoken
 streamlit
 langchain-community
+langchain-ollama
